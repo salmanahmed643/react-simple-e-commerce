@@ -1,0 +1,15 @@
+.shop_container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.product_container {
+    margin-left: 100px;
+    margin-right: 5px;
+    border-right: 3px solid #ddd;
+    transition: .3s all ease;
+}
+.product_container:hover {
+    border-right-color: rgb(163, 157, 157);
+}
+/* .cart_container {} */

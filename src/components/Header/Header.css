@@ -1,0 +1,23 @@
+.header {
+    text-align: center;
+}
+
+.header_img {
+    height: 80px;
+    text-align: center;
+}
+
+.menu {
+    background-color: #000;
+    padding: 20px;
+}
+.menu a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+    padding: 20px;
+}
+.menu a:hover {
+    background-color: rgb(80, 78, 78);
+    padding: 20px;
+}
